@@ -49,7 +49,7 @@ a:hover {
 
 body {
   font-family: var(--font-family);
-  background-image: url("https://co.pinterest.com/pin/648307308888205790/");
+  background-image: url('https://co.pinterest.com/pin/648307308888205790/');
   background-size: contain;
   background-repeat: repeat;
 
