@@ -49,7 +49,7 @@ a:hover {
 
 body {
   font-family: var(--font-family);
-  background-image: url('https://github.com/SaraQuitze/SaraZarama/blob/main/assets/images/background3.jpg');
+  background-image: url('/images/background3.jpg');
   background-size: contain;
   background-repeat: repeat;
 
