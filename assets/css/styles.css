@@ -49,10 +49,10 @@ a:hover {
 
 body {
   font-family: var(--font-family);
-  background-image: url('https://i.pinimg.com/originals/69/fa/63/69fa63f6cc7c52edd11fdfd760d3bff5.jpg');
+  background-image: url('/images/background3.jpg');
   background-size: contain;
   background-repeat: repeat;
-
+  background-color: var(--bg-color);
 }
 
 nav {
@@ -64,8 +64,9 @@ nav {
   align-items: center;
   justify-content: space-between;
   padding: 1.5rem 4rem;
-  background-image: url('https://i.pinimg.com/originals/f5/5e/1d/f55e1d245293b2a542f21d50f0add9d6.png');
+  background-image: url('/images/backgroundtop.jpg');
   background-size: cover;
+  background-color: transparent;
   box-shadow: 3px 6px 10px var(--secondary-shadow);
 }
 
@@ -100,7 +101,7 @@ h2 {
 }
 
 footer {
-  /*background-color: var(--bg-color);*/
+  background-color: transparent;
   padding: 3rem;
   text-align: center;
   margin: 0 0 0;
@@ -140,7 +141,7 @@ footer {
 }*/
 
 .section3 {
-  background-image: url('https://i.pinimg.com/originals/f5/5e/1d/f55e1d245293b2a542f21d50f0add9d6.png');
+  background-image: url('/assets/images/backgroundfoot.jpg');
   background-size: cover;
 }
 
