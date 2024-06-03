@@ -263,6 +263,12 @@ footer {
   margin: 10px;
 }
 
+.enlace-de-proyecto{
+  font-family: var(--title-font);
+  font-size: var(--bold-font);
+  color: var(--secondary-shadow);
+}
+
 .contacto {
   margin-top: 2rem;
   margin-bottom: 2rem;
